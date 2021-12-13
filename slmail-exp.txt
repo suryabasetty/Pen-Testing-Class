@@ -1,0 +1,9 @@
+Normal slmail-testBed with nops 16:
+got windows command line with both immunity ebuger and also without
+
+With Nopside parameter embeedded into msf command
+got windows command line with both immunity ebuger and also without
+
+embedding exitfunc thread into msf commans to stop reverse shell killing sml
+got windows commans line with both and also sml is not killed in either case
+
